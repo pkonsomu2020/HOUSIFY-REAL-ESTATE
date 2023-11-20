@@ -19,4 +19,4 @@ This is a platform where a user is able to search for a housing property based o
 
 # Demo site
 
-
+https://housifyrealestate.netlify.app/
